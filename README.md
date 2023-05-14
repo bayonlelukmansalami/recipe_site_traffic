@@ -1,7 +1,7 @@
 # recipe_site_traffic
 They want us to predict which recipes will be popular 80% of the time and minimize the chance of showing unpopular recipes.
 
-
+### [You can access the WebApp](https://bayonlelukmansalami-recipe-site-t-recipe-traffic-predict-d84o98.streamlit.app/)
 ## About Tasty Bytes
 Tasty Bytes was founded in 2020 in the midst of the Covid Pandemic. The world wanted
 inspiration so we decided to provide it. We started life as a search engine for recipes, helping
