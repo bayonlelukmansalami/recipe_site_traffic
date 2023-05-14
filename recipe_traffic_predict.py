@@ -7,10 +7,6 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-import warnings
-warnings.filterwarnings('ignore')
 from sklearn import preprocessing
 from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
@@ -19,7 +15,6 @@ from sklearn import metrics
 from sklearn.metrics import r2_score
 from sklearn.tree import DecisionTreeClassifier
 import sklearn.tree as tree
-import scipy.optimize as opt
 from sklearn.linear_model import LogisticRegression
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import jaccard_score
