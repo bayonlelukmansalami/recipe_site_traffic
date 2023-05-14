@@ -124,7 +124,7 @@ st.table(features_np)
 
 if st.button('Predict'):
     prediction = model.predict(features_np)
-    st.write('Predicted Recipe Traffic = ', model.predict(features_np))
+    st.write('Predicted Recipe Traffic = ', prediction)
 
 
 # In[ ]:
