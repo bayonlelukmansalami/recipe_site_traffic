@@ -75,7 +75,7 @@ elif social_acc_nav == 'LinkedIn':
 
 st.title('Recipe Traffic Prediction Web App')
 st.write('Predict which recipes will lead to high traffic')
-st.write("It helps banks and credit card companies immediately to issue loans to customers with good creditworthiness")   
+st.write("It helps Tasty Bytes know the recipe that leads to high traffic")   
 st.write("There are two recipe traffic that Tasty Bytes used :1. High, 0. Low")
 st.write("A recipe with a high score will lead to more revenue.")
 
