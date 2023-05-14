@@ -24,7 +24,6 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import jaccard_score
 from sklearn.metrics import confusion_matrix
-%matplotlib inline
 
 df = pd.read_csv('https://github.com/bayonlelukmansalami/recipe_site_traffic/raw/main/recipe_site_traffic_2212.csv')
 
